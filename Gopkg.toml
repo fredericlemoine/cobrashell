@@ -1,0 +1,7 @@
+[[constraint]]
+  name = "github.com/spf13/cobra"
+  version = "0.0.3"
+
+[[constraint]]
+  name = "github.com/abiosoft/ishell"
+  version = "v2.0.0"
